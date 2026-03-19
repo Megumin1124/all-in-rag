@@ -148,7 +148,8 @@
 - [x] [Milvus索引构建](./docs/chapter9/03_index_construction.md)
 - [x] [智能查询路由与检索策略](./docs/chapter9/04_intelligent_query_routing.md)
 
-**第十章 项目实战二（选修篇）** [📖 查看章节](./docs/chapter10) *规划中*
+**第十章 项目实战二（选修篇）** [📖 查看章节](./docs/chapter10)
+- [x] [面试学习 GraphRAG 系统原型](./docs/chapter10/01_interview_graph_rag.md)
 
 ### Extra-chapter
 
